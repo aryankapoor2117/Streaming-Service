@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Portfolio new/Assets/Script/UrlOpener.cs">
+    <Files>
+      <File FileName="Assets/Scripts/OnClick.cs" Line="61" Column="1" />
+      <File FileName="Assets/Scripts/SceneChanger.cs" />
+      <File FileName="Assets/Scripts/BackClickScript.cs" />
+      <File FileName="Assets/Scripts/SliderColliderScript.cs" />
+      <File FileName="Assets/Scripts/PlayPauseSpriteSwap.cs" />
+      <File FileName="Assets/DisplayLyricBackground.cs" />
+      <File FileName="Assets/AutoScrollScript.cs" />
+      <File FileName="Assets/UrlOpener.cs" Line="16" Column="1" />
+      <File FileName="Assets/DisplayMerchScript.cs" Line="14" Column="60" />
+      <File FileName="../Portfolio new/Assets/Script/UrlOpener.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="50fe7a3d-657f-432c-9633-e6f67edfaf03" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
